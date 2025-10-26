@@ -46,3 +46,7 @@ AI architectures • Machine Learning pipelines • Data Visualization
 > *Always learning, always evolving.*
 
 ---
+
+<p align="center">
+  <img src="https://github.com/Nabin-gyawali/Nabin-gyawali/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
